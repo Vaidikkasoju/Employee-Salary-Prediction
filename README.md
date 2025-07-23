@@ -21,6 +21,7 @@ This project is a **Streamlit-based web application** that predicts the salary o
 - **Data Source**: Stack Overflow Developer Survey (CSV)
 
 ---
+
 **🔎 How It Works**
 DATA LOADING AND CLEANING
 - Filters full-time employees
