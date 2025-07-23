@@ -16,7 +16,7 @@ le_country = data["le_country"]
 le_education = data["le_education"]
 
 def show_predict_page():
-    st.title("🧑‍💻 Employee Salary Prediction")
+    st.title("🧑‍💻PREDICTIVE COMPENSATION INTELLIGENCE")
 
     st.write("### Please provide the following information to estimate your salary:")
 
