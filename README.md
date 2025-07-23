@@ -28,6 +28,8 @@ DATA LOADING AND CLEANING
 - Removes missing and outlier salaries
 - Standardizes education and experience fields
 
+Dataset - https://drive.google.com/file/d/1zEQSOp1AFCVNUZ7Q3sHAf-47_30OWvxf/view?usp=sharing
+
 MODEL TRAINING (salary_prediction.ipynb)
 - Encodes categorical features using LabelEncoder
 - Trains a regression model on cleaned data
