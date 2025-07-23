@@ -1,4 +1,4 @@
-# 💰 Employee Salary Prediction Web App
+# 💰 IntelliSalary: Predictive Compensation Intelligence Web App
 
 This project is a **Streamlit-based web application** that predicts the salary of software professionals based on **Country**, **Education Level**, and **Years of Experience**. It also provides an interactive dashboard to **explore salary trends** from the Stack Overflow Developer Survey.
 
